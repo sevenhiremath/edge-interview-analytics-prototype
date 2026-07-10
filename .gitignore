@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vosk model
+models/vosk/
+
+# Generated data
+data/audio/
+data/chunks/
+data/outputs/
+
+# Environment variables
+.env
